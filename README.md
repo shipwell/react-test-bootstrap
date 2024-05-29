@@ -1,6 +1,6 @@
 # 🚢 Shipwell React Test Bootstrap
 
-This a bootstrap project for the react front-end test, that already contains:
+This is a bootstrap project for the react front-end test, that already contains:
 
 - React with typescript
 - Axios
