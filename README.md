@@ -5,7 +5,7 @@ This is a bootstrap project for the react front-end test, that already contains:
 - React with typescript
 - Axios
 - React Query
-- Vitest 
+- Vitest (with coverage, if you wanted)
 - React Testing Library
 
 For other libs, feel free to install.
@@ -18,6 +18,12 @@ For other libs, feel free to install.
 
   # run locally
   npm run dev
+
+  # run tests
+  npm test
+
+  # run tests with coverage
+  npm test -- --coverage
 ```
 
-Happy coding 😄
+Happy coding, and good luck 😄
