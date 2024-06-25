@@ -5,6 +5,8 @@ This is a bootstrap project for the react front-end test, that already contains:
 - React with typescript
 - Axios
 - React Query
+- Tailwind
+- Styled Components
 - Vitest (with coverage, if you wanted)
 - React Testing Library
 
